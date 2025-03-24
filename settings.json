@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "bokaChoo.aternos.me:41528",
+    "port": 41528,
+    "version": "1.21.4"
   },
 
   "position": {
